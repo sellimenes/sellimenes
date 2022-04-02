@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selim Enes</h1>
 <h3 align="center">A self-taught (future) frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sellimenes&label=Profile%20views&color=0e75b6&style=flat" alt="sellimenes" /> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **sellim81@gmail.com**
