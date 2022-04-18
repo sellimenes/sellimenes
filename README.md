@@ -10,7 +10,6 @@
 <a href="https://twitter.com/sellimenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sellimenes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/selim-enes-erdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim-enes-erdogan" height="30" width="40" /></a>
 <a href="https://instagram.com/eselimenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eselimenes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sellim81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sellim81" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
