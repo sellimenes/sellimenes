@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Selim Enes</h1>
 <h3 align="center">A self-taught (future) frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **sellim81@gmail.com**
+- 📫 How to reach me **https://selimenes.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
