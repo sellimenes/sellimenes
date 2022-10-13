@@ -5,6 +5,11 @@
 
 - 📧 How to reach me: **sellim81@gmail.com**
 
+<p>I am currently working as a jr. front-end developer full-time. Working on 3 projects simutaneously. These projects are:</p>
+- Programmatic project, both DSP and SSP (Svelte)
+- Blog project (Next.js)
+- Project like Zoom + Twitch (Svelte)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sellimenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sellimenes" height="30" width="40" /></a>
