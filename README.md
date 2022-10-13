@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selim Enes</h1>
 <h3 align="center">A junior front-end developer from Turkiye (formerly Turkey)</h3>
 
-- 📌 Portfolio: [https://www.selimenes.dev](https://www.selimenes.dev)
+- 📌 Portfolio: **www.selimenes.dev**
 
 - 📧 How to reach me: **sellim81@gmail.com**
 
