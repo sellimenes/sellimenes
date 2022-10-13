@@ -5,7 +5,8 @@
 
 - 📧 How to reach me: **sellim81@gmail.com**
 
-<p>**I am currently working as a jr. front-end developer full-time. Working on 3 projects simutaneously. These projects are:**</p>
+**I am currently working as a jr. front-end developer full-time. Working on 3 projects simutaneously. These projects are:**
+
 - 📌 Programmatic project, both DSP and SSP (Svelte)
 
 
