@@ -6,9 +6,9 @@
 - 📧 How to reach me: **sellim81@gmail.com**
 
 <p>I am currently working as a jr. front-end developer full-time. Working on 3 projects simutaneously. These projects are:</p>
-- Programmatic project, both DSP and SSP (Svelte)
-- Blog project (Next.js)
-- Project like Zoom + Twitch (Svelte)
+- 📌 Programmatic project, both DSP and SSP (Svelte)
+- 📌 Blog project (Next.js)
+- 📌 Project like Zoom + Twitch (Svelte)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
