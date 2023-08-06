@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim Enes</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">Frontend developer from Turkiye</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@sellimenes](https://medium.com/@sellimenes)
 
