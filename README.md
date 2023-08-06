@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Selim Enes</h1>
 <h3 align="center">Frontend developer from Turkiye</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@sellimenes](https://medium.com/@sellimenes)
-
 - 📫 How to reach me **selimenesdev@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://medium.com/@sellimenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sellimenes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
